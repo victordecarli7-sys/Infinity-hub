@@ -1,5 +1,5 @@
 --[[
-    INFINITY HUB
+    INFINITY HU
     Purple Edition
     LocalScript | Roblox Studio
 ]]
